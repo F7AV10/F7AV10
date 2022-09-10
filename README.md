@@ -21,7 +21,7 @@
 <div style="display: inline_block">
       <p align="center" />
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
       
 </div>
 
