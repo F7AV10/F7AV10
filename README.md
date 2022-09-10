@@ -1,6 +1,6 @@
-<div style="display: inline_block">
+<div>
         <a href="https://github.com/F7AV10" />
-        <img height="500em" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
+        <img align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
 ## Olá, me chamo Flávio! 😊
