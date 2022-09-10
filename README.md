@@ -1,11 +1,13 @@
 <div style="display: inline_block">
+    <a href="https://github.com/F7AV10" />
     <img height="350cm" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
-## 👋 Olá, me chamo Flávio
+## Olá, me chamo Flávio! 😊
 
 🌱 Dev Full Stack | .NET | SQL | Angular | Cursando ADS
 <div style="display: inline_block">
+    <a href="https://github.com/F7AV10" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
