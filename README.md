@@ -3,7 +3,7 @@
         <img height="100%" width="100%" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
-## Olá, me chamo Flávio! 😊
+## Olá, me chamo Flávio!  😊
 
 🌱 Dev Full Stack | .NET | SQL | Angular | Cursando ADS
 <div style="display: inline_block">
@@ -23,8 +23,6 @@
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&theme=blue-green&layout=compact" />
 </div>
-
-
 
 
 <!---
