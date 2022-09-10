@@ -1,6 +1,6 @@
 <div>
         <a href="https://github.com/F7AV10" />
-        <img style='height: 100%; width: 100%; object-fit: contain' align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
+        <img height="100%" width="100%" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
 ## Olá, me chamo Flávio! 😊
