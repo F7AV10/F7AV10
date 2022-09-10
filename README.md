@@ -1,6 +1,6 @@
 <div style="display: inline_block">
         <a href="https://github.com/F7AV10" />
-        <img height="350cm" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
+        <img height="500em" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
 ## Olá, me chamo Flávio! 😊
@@ -19,9 +19,9 @@
 <br/>
 
 <div class="container">
-    <p align="center" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
       <!--- OCULTAR POR ENQUANTO
+      <p align="center" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
       --->
 </div>
