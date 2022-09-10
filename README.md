@@ -1,6 +1,7 @@
 <div style="display: inline_block">
-    <a href="https://github.com/F7AV10" />
-    <img height="350cm" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
+    <p align="center" />
+        <a href="https://github.com/F7AV10" />
+        <img height="350cm" align="center" alt="let's code" src="https://i.imgur.com/gBxP6oJ.gif" />
 </div>
 
 ## Olá, me chamo Flávio! 😊
@@ -17,12 +18,16 @@
     <img align="center" alt="sqLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 <br/>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
-  <!--- OCULTAR POR ENQUANTO
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
-  --->
+
+<div class="container">
+    <p align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
+      <!--- OCULTAR POR ENQUANTO
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
+      --->
+    </p>
 </div>
+
 
 
 
