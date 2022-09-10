@@ -16,17 +16,14 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img align="center" alt="sqLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-<br/>
+</div><br/>
 
 <div style="display: inline_block">
       <!---
       <p align="center" />
       --->
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=F7AV10&show_icons=true&theme=blue-green" />
-      <!---
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&layout=compact&theme=blue-green" />
-      --->
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7AV10&theme=blue-green&layout=compact" />
 </div>
 
 
